@@ -16,3 +16,20 @@ body {
 .navbar-inverse {
     background-color: #2c3e50;
 }
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.thumbnail>img {
+  
+  width: 270px;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.thumbnail{
+    width: 275px ;
+    background-size: cover;
+  background-position: center;
+}
